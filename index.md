@@ -1,6 +1,7 @@
 ---
 title: FireHaven
 layout: default
+custom_css: /assets/style.css
 ---
 
 # Home Defense System 🌊
