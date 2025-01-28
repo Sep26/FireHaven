@@ -4,6 +4,11 @@ layout: default
 custom_css: /assets/style.css
 ---
 
+<div style="display: flex; align-items: center;">
+  <img src="/assets/images/logo.png" alt="FireHaven Logo" style="height: 50px; margin-right: 10px;">
+  <h1>FireHaven2</h1>
+</div>
+
 # Home Defense System 🌊
 **Protect Your Home Against Fire with Water-Based Innovation**
 
