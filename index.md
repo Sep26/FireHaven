@@ -1,10 +1,10 @@
 ---
-title: FireHaven
+title: FireHaven22
 layout: default
 custom_css: /assets/style.css
 ---
 
-# Home Defense System 🌊
+# Home Defense System22 🌊
 **Protect Your Home Against Fire with Water-Based Innovation**
 
 Welcome to the future of home safety! Our system ensures modern, efficient, and environmentally friendly fire defense using cutting-edge water technologies. 
