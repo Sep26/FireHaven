@@ -3,7 +3,7 @@ title: Home Defense System
 layout: default
 ---
 
-# Home Defense System 🌊
+# FireHaven 🌊
 **Protect Your Home Against Fire with Water-Based Innovation**
 
 Welcome to the future of home safety! Our system ensures modern, efficient, and environmentally friendly fire defense using cutting-edge water technologies. 
