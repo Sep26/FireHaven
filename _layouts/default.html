@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+</head>
+<body>
+  <header style="display: flex; align-items: center; padding: 20px;">
+    <!-- Logo -->
+    <img src="{{ site.baseurl }}/assets/logo.PNG" alt="FireHaven Logo" style="height: 80px; margin-right: 15px;">
+    <!-- Title -->
+    <h1 style="margin: 0;">{{ site.title }}</h1>
+  </header>
+  
+    <main>
+        <div class="content-wrapper">
+            {{ content }}
+        </div>
+    </main>
+
+</body>
+</html>

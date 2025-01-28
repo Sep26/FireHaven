@@ -1,18 +1,16 @@
 ---
-title: FireHaven2
+title: FireHaven
 layout: default
 custom_css: /assets/style.css
+logo: /assets/logo.PNG
 ---
 
-<div style="display: flex; align-items: center;">
-  <img src="/assets/logo.PNG" alt="FireHaven Logo" style="height: 50px; margin-right: 10px;">
-  <h1>FireHaven2</h1>
-</div>
+
 
 # Home Defense System 🌊
 **Protect Your Home Against Fire with Water-Based Innovation**
 
-Welcome to the future of home safety! Our system ensures modern, efficient, and environmentally friendly fire defense using cutting-edge water technologies. 
+Welcome to the future of home safety! Our system ensures modern, efficient, and environmentally friendly fire defense using cutting-edge water technologies.
 
 ---
 
@@ -23,9 +21,9 @@ Welcome to the future of home safety! Our system ensures modern, efficient, and 
 
 ---
 
-## 📸 Featured Image
+## 📸 Featured Image -> the concept to be put here!
 ![Placeholder Image](#)  
-*Description of the image goes here.*
+*Our 3-layer defense keeps you safe from any wildfire*
 
 ---
 
@@ -37,10 +35,6 @@ Our advanced sensors quickly identify signs of fire and smoke.
 ### Step 2: Response  
 Water is deployed with precision, minimizing damage to your home.  
 ![Response System Placeholder](#)
-
-### Step 3: Monitoring  
-Stay updated through our mobile app for complete peace of mind.  
-![Mobile App Placeholder](#)
 
 ---
 
