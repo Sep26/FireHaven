@@ -1,3 +1,6 @@
+.content-wrapper {
+  padding: 0 20px; /* Adds 20px space on the left and right */
+}
 /* Center the logo and title */
 header {
   display: flex;
@@ -19,7 +22,7 @@ header h1 {
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
-  background: linear-gradient(120deg, #e0f7fa, #0288d1); /* White to Blue gradient */
+  background: linear-gradient(120deg, #2d54ee, #5bc1f9); /* White to Blue gradient */
   color: #ffffff; /* Font color */
 }
 
