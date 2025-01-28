@@ -1,1 +1,26 @@
+/* assets/style.css */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(120deg, #e0f7fa, #0288d1); /* White to Blue gradient */
+  color: #ffffff; /* Font color */
+}
+
+h1, h2, h3 {
+  color: #ffffff; /* Headers in white */
+}
+
+p {
+  color: #cce7ff; /* Slightly lighter blue for paragraphs */
+}
+
+a {
+  color: #90caf9; /* Light blue for links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
 
